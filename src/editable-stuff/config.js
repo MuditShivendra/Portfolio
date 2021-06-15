@@ -8,26 +8,22 @@ const mainBody = {
   // gradientColors: "#12b8ce, #0ba4af, #0b7baf, #0b58af, #053d6d, #022747, #000428, #00010c, #190638, #351a61, #7e2047, #c92f6f, #cb2d3e, #e7795e, #ff9b11, #FFC371",
   gradientColors: "#00cdac, #02aab0, #004e92, #000428, #351a61, #7e2047, #ed4264, #ffedbc",
   // bodyColors: "#4DCCC6, #96E4DF",
-  firstName: "Manit",
+  firstName: "Mudit",
   middleName: "",
-  lastName: "Baser",
-  message: "BITS Pilani | Flipkart | Developer",
+  lastName: "Shivendra",
+  message: "BITS Pilani | Societe Generale | Developer",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/manitbaser",
+      url: "https://github.com/MuditShivendra",
     },
     {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/manit.baser/",
+      image: "fa-instagram",
+      url: "https://www.instagram.com/howdy_moody/",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/manit-baser/",
-    },
-    {
-      image: "fa-medium",
-      url: "https://manitbaser.medium.com",
+      url: "https://www.linkedin.com/in/mudit-shivendra/",
     },
   ],
 };
@@ -49,10 +45,10 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/manitbaser.jpg"),
+  imageLink: require("../editable-stuff/a.jpeg"),
   imageSize: 375,
   message:
-    "My name is Manit Baser. I’m a final year undergraduate at Birla Institute of Technology and Science, Pilani, India, pursuing B.E. (Hons.) in Electrical and Electronics. I am intrigued by the applications of deep learning and software development to tackle real-world problems, and I am determined to continuously learn and grow and make the world a better place using my knowledge and experience.",
+    "My name is Mudit Shivendra. I’m a final year undergraduate at Birla Institute of Technology and Science, Pilani, India, pursuing B.E. (Hons.) in Electrical and Instrumentation.I am passionate about solving real-world problems using my knowledge in various technical domains and past experiences and learning new things that come in the way. I have previously worked on projects related to Reinforcement leaning, Augmented Reality, Game development, and Contact tracing systems.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -85,7 +81,7 @@ const achievements = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "manitbaser",
+  gitHubUsername: "MuditShivendra",
   reposLength: 0,
   specificRepos: ["CoviFight", "Foreground-Segmentation-for-Video-Sequences-with-Dynamic-Background", "Interactive-Voice-Response-Chatbot", "Signed-Wallace-Multiplier", "Cross_Sell-Up_Sell-Recommender-System", "Bingo"],
 };
@@ -93,7 +89,7 @@ const repos = {
 const articles = {
   show: true,
   heading: "Articles",
-  username: "manitbaser",
+  username: "MuditShivendra",
 };
 
 const publications = {
@@ -138,7 +134,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "Feel free to email me at",
-  email: "manitb06@gmail.com",
+  email: "mudit.shivendra350@yahoo.in",
 };
 
 

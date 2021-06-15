@@ -16,31 +16,25 @@ const GetInTouch = ({ heading, message, icons, email }) => {
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://github.com/manitbaser"
+                href="https://github.com/MuditShivendra"
               >
                 <i className="fab fa-github fa-3x socialicons" />
               </a>
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://www.facebook.com/manit.baser/"
+                href="https://www.instagram.com/howdy_moody/"
               >
-                <i className="fab fa-facebook fa-3x socialicons" />
+                <i className="fab fa-instagram fa-3x socialicons" />
               </a>
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://www.linkedin.com/in/manit-baser/"
+                href="https://www.linkedin.com/in/mudit-shivendra/"
               >
                 <i className="fab fa-linkedin fa-3x socialicons" />
               </a>
-              <a
-                target="_blank"
-                rel="noopener noreferrer"
-                href="https://manitbaser.medium.com"
-              >
-                <i className="fab fa-medium fa-3x socialicons" />
-              </a>
+            
           </div>
           <br></br><br></br>
       <h3>
@@ -52,11 +46,11 @@ const GetInTouch = ({ heading, message, icons, email }) => {
         <a
           className="badge badge-dark"
           rel="noopener"
-          href="https://github.com/manitbaser"
+          href="https://github.com/MuditShivendra"
           aria-label="My GitHub"
           style={{color: "#6bccf3"}}
         >
-          Manit Baser
+          Mudit Shivendra
         </a>{" "}
         using <i className="fab fa-react"  style={{color: "#02aab0"}}/>
         </h2>

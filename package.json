@@ -1,13 +1,13 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "http://manitbaser.github.io",
+  "homepage": "http://muditshivendra.github.io",
   "version": "2.0.0",
   "private": true,
   "author": {
-    "name": "Manit Baser",
-    "email": "manitb06@gmail.com",
-    "url": "https://github.com/manitbaser"
+    "name": "Mudit Shivendra",
+    "email": "mudit.shivendra350@yahoo.in",
+    "url": "https://github.com/MuditShivendra"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.2",
